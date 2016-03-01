@@ -1,0 +1,1 @@
+Will give the user a smooth interface to keep track of their stock portfolio. It will provide a means to do research by providing latest news relating to the stocks.
